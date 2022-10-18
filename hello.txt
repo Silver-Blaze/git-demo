@@ -8,4 +8,8 @@ hello git hello
 hello git hello
 hello git hello
 hello git hello
+<<<<<<< HEAD
 666这是代码666
+=======
+666666666666666 这是代码
+>>>>>>> hot-fix
